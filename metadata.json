@@ -1,0 +1,6 @@
+{
+  "name": "Ekskavatör Kahramanı: Prensesi Kurtar 3D",
+  "description": "3 zorlu bölümden oluşan ultra grafikli 3D ekskavatör simülasyon ve macera oyunu. Engelleri parçala, lavları aş, zindandaki prensesi kurtar!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
